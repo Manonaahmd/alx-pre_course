@@ -1,2 +1,4 @@
 #!/bin/bash
- echo "ALX School"
+
+echo "ALX School"
+iecho "ALX School"
